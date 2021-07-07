@@ -22,7 +22,7 @@ Desafio técnico desenvolvido para vaga de desenvolvedor .NET.
 
 Tecnologias usadas: .NET 5 e Swagger.
 
-Challenge Description:
+Descrição do Desafio:
 
 Crie um projeto de API em .NET Core (no mínimo 3.1), com três endpoints:
 
