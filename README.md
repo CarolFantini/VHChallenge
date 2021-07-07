@@ -3,7 +3,7 @@
 ### English
 Technical challenge developed for a .NET developer position.
 
-Technologies used: .NET 5 and OpenAPI.
+Technologies used: .NET 5 and OpenAPI 3.0.1 (Swagger).
 
 Challenge Description:
 
@@ -20,7 +20,7 @@ Create an API project in .NET Core (at least 3.1), with three endpoints:
 ### Português
 Desafio técnico desenvolvido para vaga de desenvolvedor .NET.
 
-Tecnologias usadas: .NET 5 e OpenAPI.
+Tecnologias usadas: .NET 5 e OpenAPI 3.0.1 (Swagger).
 
 Descrição do Desafio:
 
