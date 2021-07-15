@@ -34,10 +34,11 @@ Crie um projeto de API em .NET Core (no mínimo 3.1), com três endpoints:
 
     Este escolha precisa ser configurável via o appsettings.json.
   
-  ## License
-  [GPL v3](https://github.com/CarolFantini/VHChallenge/blob/main/LICENSE)
+## License
+<a href="https://github.com/CarolFantini/VHChallenge/blob/main/LICENSE">
+<img alt="License" src="https://img.shields.io/github/license/CarolFantini/VHChallenge?color=green">
+</a>
   
-  ## Author
-  - LinkedIn: [Carol Fantini](https://linkedin.com/in/carolfantini)
-  
-  - Twitter: [@carol_fantini](https://twitter.com/carol_fantini)
+## Author
+<a href="https://linkedin.com/in/carolfantini"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/carol_fantini"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
